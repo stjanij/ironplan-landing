@@ -12,7 +12,7 @@ const Navbar = () => (
 );
 
 const PhoneMockup = () => (
-  <div style={{background:"#0f0f1a",border:"2px solid rgba(255,255,255,0.1)",borderRadius:32,padding:16,width:"100%",maxWidth:280,margin:"0 auto",boxShadow:"0 0 60px rgba(59,130,246,0.15)"}}>
+  <div style={{background:"#0f0f1a",border:"2px solid rgba(59,130,246,0.4)",borderRadius:32,padding:16,width:"100%",maxWidth:280,margin:"0 auto",boxShadow:"0 0 80px rgba(59,130,246,0.35), 0 0 160px rgba(59,130,246,0.15), inset 0 0 30px rgba(59,130,246,0.05)"}}>
     <div style={{background:"rgba(255,255,255,0.05)",borderRadius:8,padding:12,marginBottom:10}}>
       <div style={{fontSize:9,color:"rgba(255,255,255,0.4)",marginBottom:2}}>CURRENT SESSION</div>
       <div style={{fontSize:14,fontWeight:700,color:"white"}}>Workout A</div>
